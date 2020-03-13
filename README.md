@@ -15,3 +15,5 @@ in dllmain.cpp i have an example use of the code, all you have todo is
 
 # Notes:
 If you wish to edit panorama you may wish to check out WesserEsser's github OR dump it yourself for latest version: https://github.com/WasserEsser/panorama
+
+Currently outdated.
